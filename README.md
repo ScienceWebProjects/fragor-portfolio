@@ -98,9 +98,9 @@ First page which user see is authorization page. Devices with a product code and
 In this project three levels of authorization was created. masterUser as admin - this level has all of permissions and can delete users accounts, add or edit printers/filaments, change logo or background. Next level is changerUser - in this level of permission user can add or edit printers/filaments. The last permission level is commonUser - every new account have this permission type. User can only browse printers and filaments pages and search them.
 
 <p align="center">
-   <img src="/files/authorizationPage.png" alt="Authorization page" width="240" height="400">
-   <img src="/files/loginFormPage.png" alt="Login form" width="240" height="400">
-   <img src="/files/signinFormPage.png" alt="Signin form" width="240" height="400">
+   <img src="/files/authorization-mobile.png" alt="Authorization mobile page" width="240" height="400">
+   <img src="/files/authorization-desktop.png" alt="Login form" width="666" height="400">
+   <img src="/files/signin-mobile.png" alt="Signin form" width="240" height="400">
  </p>
 
 ### Home page
@@ -108,7 +108,7 @@ In this project three levels of authorization was created. masterUser as admin -
 After logging in, each user sees 3 buttons for subpages, only the administrator sees 4. The first two subpages are used to view, edit and add devices and materials. The settings subpage allows you to change your username, password or e-mail. The last page available only to the administrator allows you to change user permissions or remove them.
 
 <p align="center">
-  <img src="/files/main.png" alt="Home page" width="240" height="400">
+  <img src="/files/home.png" alt="Home page" width="240" height="400">
 </p>
 
 ### Printers
