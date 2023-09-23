@@ -105,7 +105,7 @@ In this project four levels of authorization was created. masterUser as admin - 
 
 ### Home page
 
-After logging in, each user sees 3 buttons for subpages, only the administrator sees 4. The first two subpages are used to view, edit and add devices and materials. The settings subpage allows you to change your username, password or e-mail. The last page available only to the administrator allows you to change user permissions or remove them.
+After logging in, each user sees 3 buttons for subpages, only the administrator or changer user sees 4 whereas owners sees 6. The first two subpages are used to view, edit and add printers and materials. The settings subpage allows to change username, password or e-mail. Fourth page is available to administrator and changer user. They can add, edit or remove measurement devices. The last page visible for users available only to the administrator allows to change user permissions or remove them. Additionally, owners can manage users in given companies, as well as the companies themselves. The last, sixth subpage allows for this.
 
 <p align="center">
   <img src="/files/home.png" alt="Home page" width="300" height="600">
